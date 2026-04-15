@@ -14,6 +14,12 @@ This repository marks the initial step of the 100Hires portfolio project, focusi
 3. **Configuration Audit**: Verified extension permissions and ensured seamless integration between Claude Code and the Cursor core.
 
 ## 🧩 Challenges & Solutions
+
+### 1. Git Identity Configuration
+- **Challenge**: Encountered a `fatal: unable to auto-detect email address` error during the initial commit. This occurred because the local environment lacked global Git user configurations.
+- **Solution**: Resolved by executing `git config --global user.email` and `git config --global user.name` via the terminal to manually define the author identity.
+
+### 2. Extension Synchronization
 - **Challenge**: Initial sync delay between the Codex extension and the local file system.
 - **Solution**: Performed a manual workspace re-index within Cursor, which resolved the metadata latency and enabled full context awareness.
 - **Optimization**: Configured custom `.cursorrules` (optional) to further refine the AI's understanding of the project structure.
