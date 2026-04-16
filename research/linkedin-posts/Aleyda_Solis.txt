@@ -1,0 +1,7 @@
+GSC Wizard from Jan-Willem Bobbink is out in Beta now for you to try for free! I've been playing with it and it's 🔥 - a full SEO suite built on top of your Google Search Console data, including among others: 
+
+* An Enhanced GSC Dashboard: Queries, Pages, Countries, New & Lost Rankings, Rank Changes, Topic Clusters, Sitemaps Performance, and more. 
+* Optimization: On-page SEO, Content decay, Query decay, Cannibalization, CTR Benchmark, Page Poaching, and more. 
+* Indexing, opportunity scoring, forecast, and much more! 
+
+Check it out: gscwizard(.)com

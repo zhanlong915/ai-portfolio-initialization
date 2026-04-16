@@ -3,16 +3,16 @@ import subprocess
 
 # 10位SEO专家及其代表性视频ID
 expert_videos = {
-    "Kevin_Indig": "hZf_D7b8R0A",          # AI SEO Strategy
-    "Koray_Tugberk_Gubur": "e-3p_0F_V_8",   # Topical Authority
-    "Aleyda_Solis": "WvOisC9p9_Y",          # AI Automation
-    "Gael_Breton_AH": "6S8u76_X0f0",        # AI Content Quality
-    "Matthew_Woodward": "pE-DIn9yHWA",      # AI Content Detection
-    "Lily_Ray": "Y_6S6GvO_0s",              # Google EEAT & AI
-    "Bernard_Huang": "7CAtvV_W2_o",         # Information Gain
-    "Eli_Schwartz": "6w_Xp_XwXxw",          # Product-Led SEO
-    "Ross_Hudgens": "I4LgZ_z0-3I",          # Premium Content AI
-    "Kyle_Roof": "k0n9h76XfXo"              # Scientific SEO
+    "Kevin_Indig": "jxXPpXL2pFg",          # AI SEO Strategy
+    "Koray_Tugberk_Gubur": "_U0UQsah3Pc",   # Topical Authority
+    "Aleyda_Solis": "ek0yCkmfVuM",          # AI Automation
+    "Gael_Breton": "Lt2I-wMGe2Q",        # AI Content Quality
+    "Matthew_Woodward": "Qd_c_AwDV6E",      # AI Content Detection
+    "Lily_Ray": "2nJkT8zOzcM",              # Google EEAT & AI
+    "Bernard_Huang": "o7D0KBb4tAw",         # Information Gain
+    "Eli_Schwartz": "EMsfTpSjujk",          # Product-Led SEO
+    "Ross_Hudgens": "8-PS7gR2G0I",          # Premium Content AI
+    "Kyle_Roof": "frxMhxQXJLc"              # Scientific SEO
 }
 
 def download_transcripts():
