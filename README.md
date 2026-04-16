@@ -24,5 +24,19 @@ This repository marks the initial step of the 100Hires portfolio project, focusi
 - **Solution**: Performed a manual workspace re-index within Cursor, which resolved the metadata latency and enabled full context awareness.
 - **Optimization**: Configured custom `.cursorrules` (optional) to further refine the AI's understanding of the project structure.
 
+## 🛠️ Technical Implementation & Challenges
+
+### YouTube Data Pipeline
+- **Tooling**: Built a Python-based automation script using `youtube-transcript-api`.
+- **Challenge**: Encountered attribute errors and bot detection issues during initial API calls.
+- **Solution**: Refactored the script to use `subprocess` for more robust CLI interaction and implemented a fallback logic to ensure data continuity.
+- **Outcome**: Successfully scraped 4+ deep-dive transcripts from top SEO authorities.
+
+### Directory Structure
+- Followed a scalable research architecture:
+  - `research/sources.md`: Curated list of high-signal SEO experts.
+  - `research/youtube-transcripts/`: Raw text data for future AI analysis.
+  - `research/linkedin-posts/`: Qualitative social proof and trend analysis.
+
 ---
 *Completed by: Lee Zhan Long*
